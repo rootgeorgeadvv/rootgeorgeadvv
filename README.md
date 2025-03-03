@@ -1,4 +1,5 @@
 # 🏴‍☠️ Comăniță George aka RooTGeorge/Sp1r1TT
+![Profile Views](https://komarev.com/ghpvc/?username=rootgeorgeadvv&color=blue)
 
 ## 🛡️ Who am I?
 
