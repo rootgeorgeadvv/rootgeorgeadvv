@@ -1,9 +1,11 @@
 # 🏴‍☠️ Comăniță George aka RooTGeorge/Sp1r1TT
+## 🔹 Profile Info
+![Followers](https://img.shields.io/github/followers/rootgeorgeadvv?style=social)
+![Stars](https://img.shields.io/github/stars/rootgeorgeadvv?style=social)
+![Repos](https://img.shields.io/github/repos/rootgeorgeadvv)
+![Gists](https://img.shields.io/github/gist/rootgeorgeadvv)
 ![Profile Views](https://komarev.com/ghpvc/?username=rootgeorgeadvv&color=blue)
-## 🔹 Profile Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rootgeorgeadvv&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rootgeorgeadvv&theme=dark)
-![GitHub Metrics](https://github.com/lowlighter/metrics)
+
 
 ## 🛡️ Who am I?
 
