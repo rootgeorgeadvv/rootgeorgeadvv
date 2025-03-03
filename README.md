@@ -2,8 +2,6 @@
 ## 🔹 Profile Info
 ![Followers](https://img.shields.io/github/followers/rootgeorgeadvv?style=social)
 ![Stars](https://img.shields.io/github/stars/rootgeorgeadvv?style=social)
-![Repos](https://img.shields.io/github/repos/rootgeorgeadvv)
-![Gists](https://img.shields.io/github/gist/rootgeorgeadvv)
 ![Profile Views](https://komarev.com/ghpvc/?username=rootgeorgeadvv&color=blue)
 
 
